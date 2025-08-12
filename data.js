@@ -21,6 +21,7 @@ const playlists = {
 const songToArtistMap = {
   'BAND4BAND': 'Central Cee, Lil Baby',
   'Not-Like-Us': 'Kendrick Lamar',
+  'flatbed-freestyle': 'Playboi Carti',
   'In-My-Head': 'Lil Tjay',
   'TELESCOPE': 'TWXN, LL Clawz, 507KAZ',
   'Double-Life-(From-"Despicable-Me-4")': 'Pharell Williams',
